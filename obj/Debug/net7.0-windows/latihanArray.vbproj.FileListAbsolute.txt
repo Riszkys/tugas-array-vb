@@ -1,0 +1,17 @@
+D:\visual basic\latihanArray\bin\Debug\net7.0-windows\latihanArray.exe
+D:\visual basic\latihanArray\bin\Debug\net7.0-windows\latihanArray.deps.json
+D:\visual basic\latihanArray\bin\Debug\net7.0-windows\latihanArray.runtimeconfig.json
+D:\visual basic\latihanArray\bin\Debug\net7.0-windows\latihanArray.dll
+D:\visual basic\latihanArray\bin\Debug\net7.0-windows\latihanArray.pdb
+D:\visual basic\latihanArray\obj\Debug\net7.0-windows\latihanArray.vbproj.AssemblyReference.cache
+D:\visual basic\latihanArray\obj\Debug\net7.0-windows\latihanArray.Form1.resources
+D:\visual basic\latihanArray\obj\Debug\net7.0-windows\latihanArray.vbproj.GenerateResource.cache
+D:\visual basic\latihanArray\obj\Debug\net7.0-windows\latihanArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual basic\latihanArray\obj\Debug\net7.0-windows\latihanArray.AssemblyInfoInputs.cache
+D:\visual basic\latihanArray\obj\Debug\net7.0-windows\latihanArray.AssemblyInfo.vb
+D:\visual basic\latihanArray\obj\Debug\net7.0-windows\latihanArray.vbproj.CoreCompileInputs.cache
+D:\visual basic\latihanArray\obj\Debug\net7.0-windows\latihanArray.dll
+D:\visual basic\latihanArray\obj\Debug\net7.0-windows\refint\latihanArray.dll
+D:\visual basic\latihanArray\obj\Debug\net7.0-windows\latihanArray.pdb
+D:\visual basic\latihanArray\obj\Debug\net7.0-windows\latihanArray.genruntimeconfig.cache
+D:\visual basic\latihanArray\obj\Debug\net7.0-windows\ref\latihanArray.dll
